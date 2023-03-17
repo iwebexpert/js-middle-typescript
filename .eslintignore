@@ -1,0 +1,5 @@
+dist
+webpack.config.js
+
+# src/*.js
+# !src/index.js
